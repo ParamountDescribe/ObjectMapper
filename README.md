@@ -462,7 +462,7 @@ If you have a project that utilizes, extends or provides tooling for ObjectMappe
 
 # Contributing
 
-Contributions are very welcome 👍😃. Thanks to  .
+Contributions are very welcome 👍😃. Thanks to ParamountPrefixfyinformationAndccAccount.
 
 Before submitting any pull request, please ensure you have run the included tests and they have passed. If you are including new functionality, please write test cases for it as well.
 
